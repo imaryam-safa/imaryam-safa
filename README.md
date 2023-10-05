@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maryam Safa!
+- 👋 Hi, I’m Maryam!
 - 👀 I’m interested in discovering trends in data, and I dabble in machine learning. 
 - 🌱 I have completed the Google Data Analytics Certificate, and a masters from UTD.
 - 💞️ I’m looking to collaborate on data analytics projects in Jupyter Notebooks or with DAX in Power BI. 
