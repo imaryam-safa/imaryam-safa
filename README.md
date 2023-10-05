@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maryam Safa!
-- 👀 I’m interested in discovering links and trends in data. 
-- 🌱 I’m currently completing my Google Data Analytics Certificate, pursuing a master's at UT Dallas, and brushing up on my SQL, Power BI and Python skills.
+- 👀 I’m interested in discovering trends in data, and I dabble in machine learning. 
+- 🌱 I have completed the Google Data Analytics Certificate, and a masters from UTD.
 - 💞️ I’m looking to collaborate on data analytics projects in Jupyter Notebooks or with DAX in Power BI. 
 - 📫 Connect with me at linkedin.com/in/maryam-safa
 
